@@ -1,0 +1,966 @@
+[2026-01-02T11:06:10.034Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:06:10.035Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:06:10.130Z] [getAttendance] Found 9 records
+[2026-01-02T11:06:10.131Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:06:10.132Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:06:10.189Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:06:10.190Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:06:10.201Z] [getAttendance] Found 9 records
+[2026-01-02T11:06:10.202Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:06:10.202Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:06:12.062Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:06:12.063Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:06:12.067Z] [getAttendance] Found 9 records
+[2026-01-02T11:06:12.069Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:06:12.069Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:06:12.085Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:06:12.086Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:06:12.095Z] [getAttendance] Found 9 records
+[2026-01-02T11:06:12.095Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:06:12.096Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:09:54.652Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:09:54.652Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:09:54.657Z] [getAttendance] Found 9 records
+[2026-01-02T11:09:54.658Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:09:54.658Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:10:20.644Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:10:20.645Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:10:20.649Z] [getAttendance] Found 9 records
+[2026-01-02T11:10:20.649Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:10:20.650Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:12:19.963Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:12:19.965Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:12:19.980Z] [getAttendance] Found 9 records
+[2026-01-02T11:12:19.981Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:12:19.985Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:12:20.037Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:12:20.038Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:12:20.045Z] [getAttendance] Found 9 records
+[2026-01-02T11:12:20.046Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:12:20.047Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:12:22.268Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:12:22.269Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:12:22.272Z] [getAttendance] Found 9 records
+[2026-01-02T11:12:22.273Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:12:22.274Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:12:22.304Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:12:22.304Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:12:22.308Z] [getAttendance] Found 9 records
+[2026-01-02T11:12:22.309Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:12:22.309Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:12:29.714Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:12:29.715Z] [getAttendance] Fetching all history
+[2026-01-02T11:12:29.747Z] [getAttendance] Found 16 records
+[2026-01-02T11:12:29.751Z] [getAttendance] Sample record: {"attendance_id":270,"user_id":10,"check_in":null,"check_out":null,"total_hours":null,"status":"","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"dht","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:12:29.752Z] [getAttendance] Unique Statuses: ["","Absent","Present"]
+[2026-01-02T11:12:29.761Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:12:29.762Z] [getAttendance] Fetching all history
+[2026-01-02T11:12:29.764Z] [getAttendance] Found 16 records
+[2026-01-02T11:12:29.765Z] [getAttendance] Sample record: {"attendance_id":270,"user_id":10,"check_in":null,"check_out":null,"total_hours":null,"status":"","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"dht","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:12:29.766Z] [getAttendance] Unique Statuses: ["","Absent","Present"]
+[2026-01-02T11:12:31.299Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:12:31.300Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:12:31.305Z] [getAttendance] Found 10 records
+[2026-01-02T11:12:31.306Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:12:31.307Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:12:31.336Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:12:31.336Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:12:31.349Z] [getAttendance] Found 10 records
+[2026-01-02T11:12:31.350Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:12:31.350Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:14:00.761Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:14:00.762Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:14:00.788Z] [getAttendance] Found 11 records
+[2026-01-02T11:14:00.789Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:14:00.790Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:14:00.811Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:14:00.821Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:14:00.828Z] [getAttendance] Found 11 records
+[2026-01-02T11:14:00.829Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:14:00.831Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:14:07.417Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:14:07.418Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:14:07.420Z] [getAttendance] Found 11 records
+[2026-01-02T11:14:07.421Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:14:07.422Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:14:07.443Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:14:07.443Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:14:07.478Z] [getAttendance] Found 11 records
+[2026-01-02T11:14:07.480Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:14:07.481Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:15:06.858Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:15:06.859Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:15:06.877Z] [getAttendance] Found 11 records
+[2026-01-02T11:15:06.877Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:15:06.878Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:15:06.895Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:15:06.896Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:15:06.909Z] [getAttendance] Found 11 records
+[2026-01-02T11:15:06.910Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:15:06.910Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:15:29.062Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:15:29.064Z] [getAttendance] Fetching all history
+[2026-01-02T11:15:29.074Z] [getAttendance] Found 17 records
+[2026-01-02T11:15:29.075Z] [getAttendance] Sample record: {"attendance_id":271,"user_id":11,"check_in":null,"check_out":null,"total_hours":null,"status":"","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"hr","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:15:29.075Z] [getAttendance] Unique Statuses: ["","Absent","Present"]
+[2026-01-02T11:15:29.091Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:15:29.091Z] [getAttendance] Fetching all history
+[2026-01-02T11:15:29.102Z] [getAttendance] Found 17 records
+[2026-01-02T11:15:29.103Z] [getAttendance] Sample record: {"attendance_id":271,"user_id":11,"check_in":null,"check_out":null,"total_hours":null,"status":"","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"hr","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:15:29.103Z] [getAttendance] Unique Statuses: ["","Absent","Present"]
+[2026-01-02T11:15:50.101Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:15:50.102Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:15:50.120Z] [getAttendance] Found 11 records
+[2026-01-02T11:15:50.121Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:15:50.123Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:15:50.214Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:15:50.216Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:15:50.233Z] [getAttendance] Found 11 records
+[2026-01-02T11:15:50.234Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:15:50.234Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:17:06.502Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:17:06.503Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:17:06.517Z] [getAttendance] Found 11 records
+[2026-01-02T11:17:06.518Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:17:06.519Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:17:06.541Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:17:06.542Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:17:06.590Z] [getAttendance] Found 11 records
+[2026-01-02T11:17:06.591Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:17:06.592Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:17:33.411Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:17:33.412Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:17:33.440Z] [getAttendance] Found 11 records
+[2026-01-02T11:17:33.441Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:17:33.442Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:17:33.456Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:17:33.457Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:17:33.460Z] [getAttendance] Found 11 records
+[2026-01-02T11:17:33.461Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:17:33.462Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:17:40.244Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:17:40.245Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:17:40.256Z] [getAttendance] Found 11 records
+[2026-01-02T11:17:40.256Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:17:40.257Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:20:14.827Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:20:14.828Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:20:14.831Z] [getAttendance] Found 11 records
+[2026-01-02T11:20:14.832Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:20:14.833Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:22:14.196Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:22:14.197Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:22:14.239Z] [getAttendance] Found 11 records
+[2026-01-02T11:22:14.240Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:22:14.241Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:22:14.290Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:22:14.291Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:22:14.341Z] [getAttendance] Found 11 records
+[2026-01-02T11:22:14.342Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:22:14.342Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:22:16.669Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:22:16.670Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:22:16.688Z] [getAttendance] Found 11 records
+[2026-01-02T11:22:16.689Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:22:16.689Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:22:16.721Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:22:16.721Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:22:16.725Z] [getAttendance] Found 11 records
+[2026-01-02T11:22:16.726Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:22:16.727Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:22:25.433Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:22:25.434Z] [getAttendance] Fetching all history
+[2026-01-02T11:22:25.456Z] [getAttendance] Found 18 records
+[2026-01-02T11:22:25.457Z] [getAttendance] Sample record: {"attendance_id":269,"user_id":9,"check_in":null,"check_out":null,"total_hours":null,"status":"","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"gech","role":"employee","date":"2026-01-02"}
+[2026-01-02T11:22:25.457Z] [getAttendance] Unique Statuses: ["","Present","Absent"]
+[2026-01-02T11:22:25.479Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:22:25.479Z] [getAttendance] Fetching all history
+[2026-01-02T11:22:25.483Z] [getAttendance] Found 18 records
+[2026-01-02T11:22:25.483Z] [getAttendance] Sample record: {"attendance_id":269,"user_id":9,"check_in":null,"check_out":null,"total_hours":null,"status":"","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"gech","role":"employee","date":"2026-01-02"}
+[2026-01-02T11:22:25.484Z] [getAttendance] Unique Statuses: ["","Present","Absent"]
+[2026-01-02T11:22:26.422Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:22:26.423Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:22:26.436Z] [getAttendance] Found 12 records
+[2026-01-02T11:22:26.437Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:22:26.438Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:22:26.454Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:22:26.455Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:22:26.467Z] [getAttendance] Found 12 records
+[2026-01-02T11:22:26.468Z] [getAttendance] Sample record: {"attendance_id":261,"user_id":2,"check_in":"2026-01-02T10:01:56.000Z","check_out":"2026-01-02T10:10:02.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:22:26.468Z] [getAttendance] Unique Statuses: ["Present","Absent",""]
+[2026-01-02T11:24:18.588Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:18.589Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:18.614Z] [getAttendance] Found 0 records
+[2026-01-02T11:24:18.642Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:18.643Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:18.659Z] [getAttendance] Found 0 records
+[2026-01-02T11:24:24.464Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:24.465Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:24.469Z] [getAttendance] Found 0 records
+[2026-01-02T11:24:24.487Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:24.488Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:24.493Z] [getAttendance] Found 0 records
+[2026-01-02T11:24:28.204Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:28.204Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:28.208Z] [getAttendance] Found 1 records
+[2026-01-02T11:24:28.209Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:24:28.209Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T11:24:30.875Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:30.876Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:30.889Z] [getAttendance] Found 1 records
+[2026-01-02T11:24:30.890Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:24:30.891Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T11:24:32.817Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:32.817Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:32.832Z] [getAttendance] Found 1 records
+[2026-01-02T11:24:32.832Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:24:32.833Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T11:24:32.860Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:32.861Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:32.877Z] [getAttendance] Found 1 records
+[2026-01-02T11:24:32.878Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:24:32.878Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T11:24:39.900Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:24:39.901Z] [getAttendance] Fetching all history
+[2026-01-02T11:24:39.906Z] [getAttendance] Found 7 records
+[2026-01-02T11:24:39.907Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:24:39.907Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T11:24:39.918Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:24:39.918Z] [getAttendance] Fetching all history
+[2026-01-02T11:24:39.921Z] [getAttendance] Found 7 records
+[2026-01-02T11:24:39.921Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:24:39.925Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T11:24:52.603Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:52.604Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:52.611Z] [getAttendance] Found 1 records
+[2026-01-02T11:24:52.612Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:24:52.613Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T11:24:52.636Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:52.638Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:52.650Z] [getAttendance] Found 1 records
+[2026-01-02T11:24:52.651Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:24:52.651Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T11:24:57.353Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:57.354Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:57.357Z] [getAttendance] Found 1 records
+[2026-01-02T11:24:57.358Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:24:57.358Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T11:24:57.370Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:24:57.371Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:24:57.383Z] [getAttendance] Found 1 records
+[2026-01-02T11:24:57.384Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:24:57.384Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T11:25:02.330Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:25:02.330Z] [getAttendance] Fetching all history
+[2026-01-02T11:25:02.342Z] [getAttendance] Found 8 records
+[2026-01-02T11:25:02.343Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:25:02.344Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:25:02.354Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:25:02.355Z] [getAttendance] Fetching all history
+[2026-01-02T11:25:02.362Z] [getAttendance] Found 8 records
+[2026-01-02T11:25:02.363Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:25:02.364Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:25:03.407Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:25:03.410Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:25:03.418Z] [getAttendance] Found 2 records
+[2026-01-02T11:25:03.418Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:25:03.419Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:25:03.436Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:25:03.436Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:25:03.439Z] [getAttendance] Found 2 records
+[2026-01-02T11:25:03.440Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:25:03.440Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:25:12.214Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:25:12.215Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:25:12.218Z] [getAttendance] Found 2 records
+[2026-01-02T11:25:12.222Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:25:12.222Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:25:32.767Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:25:32.768Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:25:32.772Z] [getAttendance] Found 2 records
+[2026-01-02T11:25:32.773Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:25:32.774Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:25:55.014Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:25:55.015Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:25:55.018Z] [getAttendance] Found 2 records
+[2026-01-02T11:25:55.019Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:25:55.020Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:27:19.548Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:27:19.549Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:27:19.711Z] [getAttendance] Found 2 records
+[2026-01-02T11:27:19.743Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:27:19.744Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:27:19.869Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:27:19.873Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:27:19.881Z] [getAttendance] Found 2 records
+[2026-01-02T11:27:19.919Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:27:19.919Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:27:21.025Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:27:21.027Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:27:21.041Z] [getAttendance] Found 2 records
+[2026-01-02T11:27:21.042Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:27:21.043Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:27:21.068Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:27:21.069Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:27:21.073Z] [getAttendance] Found 2 records
+[2026-01-02T11:27:21.073Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:27:21.074Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:27:26.497Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:27:26.498Z] [getAttendance] Fetching all history
+[2026-01-02T11:27:26.537Z] [getAttendance] Found 9 records
+[2026-01-02T11:27:26.539Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:27:26.539Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:27:26.636Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:27:26.637Z] [getAttendance] Fetching all history
+[2026-01-02T11:27:26.667Z] [getAttendance] Found 9 records
+[2026-01-02T11:27:26.668Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:27:26.668Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:27:27.490Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:27:27.490Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:27:27.505Z] [getAttendance] Found 3 records
+[2026-01-02T11:27:27.506Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:27:27.506Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:27:27.522Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:27:27.522Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:27:27.527Z] [getAttendance] Found 3 records
+[2026-01-02T11:27:27.528Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:27:27.528Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:31:40.660Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:31:40.661Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:31:40.663Z] [getAttendance] Found 4 records
+[2026-01-02T11:31:40.664Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:31:40.664Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:32:22.659Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:32:22.659Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:32:22.662Z] [getAttendance] Found 4 records
+[2026-01-02T11:32:22.663Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:32:22.663Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:34:12.149Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:34:12.151Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:34:12.301Z] [getAttendance] Found 4 records
+[2026-01-02T11:34:12.301Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:34:12.306Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:34:12.361Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:34:12.364Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:34:12.428Z] [getAttendance] Found 4 records
+[2026-01-02T11:34:12.432Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:34:12.461Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:34:15.603Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:34:15.604Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:34:15.632Z] [getAttendance] Found 4 records
+[2026-01-02T11:34:15.632Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:34:15.633Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:34:15.650Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:34:15.651Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:34:15.665Z] [getAttendance] Found 4 records
+[2026-01-02T11:34:15.666Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:34:15.666Z] [getAttendance] Unique Statuses: ["Present",""]
+[2026-01-02T11:34:25.719Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:34:25.720Z] [getAttendance] Fetching all history
+[2026-01-02T11:34:25.763Z] [getAttendance] Found 11 records
+[2026-01-02T11:34:25.764Z] [getAttendance] Sample record: {"attendance_id":277,"user_id":6,"check_in":null,"check_out":null,"total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"abebe ","role":"employee","date":"2026-01-02"}
+[2026-01-02T11:34:25.765Z] [getAttendance] Unique Statuses: ["On Leave","","Present"]
+[2026-01-02T11:34:25.769Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:34:25.770Z] [getAttendance] Fetching all history
+[2026-01-02T11:34:25.784Z] [getAttendance] Found 11 records
+[2026-01-02T11:34:25.785Z] [getAttendance] Sample record: {"attendance_id":277,"user_id":6,"check_in":null,"check_out":null,"total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"abebe ","role":"employee","date":"2026-01-02"}
+[2026-01-02T11:34:25.785Z] [getAttendance] Unique Statuses: ["On Leave","","Present"]
+[2026-01-02T11:34:26.524Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:34:26.525Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:34:26.538Z] [getAttendance] Found 5 records
+[2026-01-02T11:34:26.539Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:34:26.540Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:34:26.569Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:34:26.570Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:34:26.576Z] [getAttendance] Found 5 records
+[2026-01-02T11:34:26.576Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:34:26.577Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:38:20.062Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:38:20.062Z] [getAttendance] Fetching all history
+[2026-01-02T11:38:20.065Z] [getAttendance] Found 11 records
+[2026-01-02T11:38:20.066Z] [getAttendance] Sample record: {"attendance_id":277,"user_id":6,"check_in":null,"check_out":null,"total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"abebe ","role":"employee","date":"2026-01-02"}
+[2026-01-02T11:38:20.067Z] [getAttendance] Unique Statuses: ["On Leave","","Present"]
+[2026-01-02T11:38:20.075Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:38:20.075Z] [getAttendance] Fetching all history
+[2026-01-02T11:38:20.085Z] [getAttendance] Found 11 records
+[2026-01-02T11:38:20.088Z] [getAttendance] Sample record: {"attendance_id":277,"user_id":6,"check_in":null,"check_out":null,"total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"abebe ","role":"employee","date":"2026-01-02"}
+[2026-01-02T11:38:20.088Z] [getAttendance] Unique Statuses: ["On Leave","","Present"]
+[2026-01-02T11:38:21.028Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:38:21.029Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:38:21.038Z] [getAttendance] Found 5 records
+[2026-01-02T11:38:21.039Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:38:21.039Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:38:21.066Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:38:21.067Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:38:21.071Z] [getAttendance] Found 5 records
+[2026-01-02T11:38:21.071Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:38:21.072Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:42:13.967Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:42:13.968Z] [getAttendance] Fetching all history
+[2026-01-02T11:42:13.971Z] [getAttendance] Found 12 records
+[2026-01-02T11:42:13.971Z] [getAttendance] Sample record: {"attendance_id":278,"user_id":1,"check_in":null,"check_out":null,"total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"Webshet","role":"admin","date":"2026-01-02"}
+[2026-01-02T11:42:13.972Z] [getAttendance] Unique Statuses: ["On Leave","","Present"]
+[2026-01-02T11:42:14.005Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:42:14.009Z] [getAttendance] Fetching all history
+[2026-01-02T11:42:14.035Z] [getAttendance] Found 12 records
+[2026-01-02T11:42:14.035Z] [getAttendance] Sample record: {"attendance_id":278,"user_id":1,"check_in":null,"check_out":null,"total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"Webshet","role":"admin","date":"2026-01-02"}
+[2026-01-02T11:42:14.036Z] [getAttendance] Unique Statuses: ["On Leave","","Present"]
+[2026-01-02T11:42:14.973Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:42:14.974Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:42:15.007Z] [getAttendance] Found 6 records
+[2026-01-02T11:42:15.008Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:42:15.009Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:42:15.076Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:42:15.076Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:42:15.093Z] [getAttendance] Found 6 records
+[2026-01-02T11:42:15.094Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:42:15.100Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:45:44.073Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:45:44.074Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:45:44.080Z] [getAttendance] Found 6 records
+[2026-01-02T11:45:44.081Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:45:44.082Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:45:44.174Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:45:44.175Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:45:44.212Z] [getAttendance] Found 6 records
+[2026-01-02T11:45:44.213Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:45:44.214Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:46:26.454Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:46:26.454Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:46:26.460Z] [getAttendance] Found 6 records
+[2026-01-02T11:46:26.461Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:46:26.461Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:46:26.493Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:46:26.494Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:46:26.496Z] [getAttendance] Found 6 records
+[2026-01-02T11:46:26.497Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:46:26.498Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:47:48.770Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:47:48.771Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:47:48.997Z] [getAttendance] Found 6 records
+[2026-01-02T11:47:48.998Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:47:48.999Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:47:49.179Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:47:49.180Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:47:49.212Z] [getAttendance] Found 6 records
+[2026-01-02T11:47:49.213Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:47:49.214Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:47:52.204Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:47:52.205Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:47:52.248Z] [getAttendance] Found 6 records
+[2026-01-02T11:47:52.249Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:47:52.249Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:47:52.292Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:47:52.293Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:47:52.401Z] [getAttendance] Found 6 records
+[2026-01-02T11:47:52.410Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:47:52.411Z] [getAttendance] Unique Statuses: ["Present","","On Leave"]
+[2026-01-02T11:49:06.241Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:49:06.242Z] [getAttendance] Fetching all history
+[2026-01-02T11:49:06.254Z] [getAttendance] Found 13 records
+[2026-01-02T11:49:06.255Z] [getAttendance] Sample record: {"attendance_id":279,"user_id":7,"check_in":null,"check_out":null,"total_hours":null,"status":"Absent","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"Dr. Daniel","role":"employee","date":"2026-01-02"}
+[2026-01-02T11:49:06.255Z] [getAttendance] Unique Statuses: ["Absent","On Leave","","Present"]
+[2026-01-02T11:49:06.272Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:49:06.273Z] [getAttendance] Fetching all history
+[2026-01-02T11:49:06.274Z] [getAttendance] Found 13 records
+[2026-01-02T11:49:06.275Z] [getAttendance] Sample record: {"attendance_id":279,"user_id":7,"check_in":null,"check_out":null,"total_hours":null,"status":"Absent","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"Dr. Daniel","role":"employee","date":"2026-01-02"}
+[2026-01-02T11:49:06.276Z] [getAttendance] Unique Statuses: ["Absent","On Leave","","Present"]
+[2026-01-02T11:49:06.992Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:49:06.993Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:49:07.012Z] [getAttendance] Found 7 records
+[2026-01-02T11:49:07.012Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:49:07.013Z] [getAttendance] Unique Statuses: ["Present","","On Leave","Absent"]
+[2026-01-02T11:49:07.029Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:49:07.029Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:49:07.034Z] [getAttendance] Found 7 records
+[2026-01-02T11:49:07.035Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02T11:24:28.000Z","check_out":"2026-01-02T11:24:30.000Z","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:49:07.035Z] [getAttendance] Unique Statuses: ["Present","","On Leave","Absent"]
+[2026-01-02T11:54:27.330Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:54:27.330Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:54:27.351Z] [getAttendance] Found 7 records
+[2026-01-02T11:54:27.351Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02 14:24:28","check_out":"2026-01-02 14:24:30","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:54:27.352Z] [getAttendance] Unique Statuses: ["Present","","On Leave","Absent"]
+[2026-01-02T11:57:59.171Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:57:59.172Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:57:59.291Z] [getAttendance] Found 7 records
+[2026-01-02T11:57:59.292Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02 14:24:28","check_out":"2026-01-02 14:24:30","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:57:59.293Z] [getAttendance] Unique Statuses: ["Present","","On Leave","Absent"]
+[2026-01-02T11:57:59.389Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:57:59.389Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:57:59.539Z] [getAttendance] Found 7 records
+[2026-01-02T11:57:59.540Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02 14:24:28","check_out":"2026-01-02 14:24:30","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:57:59.541Z] [getAttendance] Unique Statuses: ["Present","","On Leave","Absent"]
+[2026-01-02T11:58:01.498Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:58:01.499Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:58:01.516Z] [getAttendance] Found 7 records
+[2026-01-02T11:58:01.517Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02 14:24:28","check_out":"2026-01-02 14:24:30","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:58:01.518Z] [getAttendance] Unique Statuses: ["Present","","On Leave","Absent"]
+[2026-01-02T11:58:01.535Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:58:01.536Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:58:01.578Z] [getAttendance] Found 7 records
+[2026-01-02T11:58:01.579Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02 14:24:28","check_out":"2026-01-02 14:24:30","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:58:01.580Z] [getAttendance] Unique Statuses: ["Present","","On Leave","Absent"]
+[2026-01-02T11:58:57.115Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:58:57.116Z] [getAttendance] Fetching all history
+[2026-01-02T11:58:57.121Z] [getAttendance] Found 15 records
+[2026-01-02T11:58:57.121Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02 14:24:28","check_out":"2026-01-02 14:24:30","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:58:57.122Z] [getAttendance] Unique Statuses: ["Present","","On Leave","Absent"]
+[2026-01-02T11:58:57.150Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T11:58:57.151Z] [getAttendance] Fetching all history
+[2026-01-02T11:58:57.154Z] [getAttendance] Found 15 records
+[2026-01-02T11:58:57.155Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02 14:24:28","check_out":"2026-01-02 14:24:30","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:58:57.155Z] [getAttendance] Unique Statuses: ["Present","","On Leave","Absent"]
+[2026-01-02T11:58:58.352Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:58:58.354Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:58:58.510Z] [getAttendance] Found 9 records
+[2026-01-02T11:58:58.511Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02 14:24:28","check_out":"2026-01-02 14:24:30","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:58:58.512Z] [getAttendance] Unique Statuses: ["Present","","On Leave","Absent"]
+[2026-01-02T11:58:58.586Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T11:58:58.587Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T11:58:58.606Z] [getAttendance] Found 9 records
+[2026-01-02T11:58:58.606Z] [getAttendance] Sample record: {"attendance_id":273,"user_id":2,"check_in":"2026-01-02 14:24:28","check_out":"2026-01-02 14:24:30","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T11:58:58.607Z] [getAttendance] Unique Statuses: ["Present","","On Leave","Absent"]
+[2026-01-02T12:00:45.323Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:00:45.328Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:00:45.339Z] [getAttendance] Found 0 records
+[2026-01-02T12:00:45.440Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:00:45.442Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:00:45.456Z] [getAttendance] Found 0 records
+[2026-01-02T12:00:49.269Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:00:49.269Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:00:49.274Z] [getAttendance] Found 0 records
+[2026-01-02T12:00:49.341Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:00:49.342Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:00:49.372Z] [getAttendance] Found 0 records
+[2026-01-02T12:00:58.504Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:00:58.505Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:00:58.520Z] [getAttendance] Found 1 records
+[2026-01-02T12:00:58.520Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:00:58.521Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T12:01:03.780Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:01:03.780Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:01:03.794Z] [getAttendance] Found 1 records
+[2026-01-02T12:01:03.795Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:01:03.795Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-02T12:01:46.633Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T12:01:46.634Z] [getAttendance] Fetching all history
+[2026-01-02T12:01:46.644Z] [getAttendance] Found 8 records
+[2026-01-02T12:01:46.644Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:01:46.645Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:01:46.664Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T12:01:46.665Z] [getAttendance] Fetching all history
+[2026-01-02T12:01:46.683Z] [getAttendance] Found 8 records
+[2026-01-02T12:01:46.684Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:01:46.685Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:01:47.605Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:01:47.606Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:01:47.620Z] [getAttendance] Found 2 records
+[2026-01-02T12:01:47.621Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:01:47.621Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:01:47.640Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:01:47.643Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:01:47.653Z] [getAttendance] Found 2 records
+[2026-01-02T12:01:47.654Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:01:47.654Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:01:56.778Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:01:56.779Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:01:56.785Z] [getAttendance] Found 2 records
+[2026-01-02T12:01:56.786Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:01:56.786Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:01:56.813Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:01:56.814Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:01:56.819Z] [getAttendance] Found 2 records
+[2026-01-02T12:01:56.820Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:01:56.820Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:01:58.913Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T12:01:58.914Z] [getAttendance] Fetching all history
+[2026-01-02T12:01:58.957Z] [getAttendance] Found 8 records
+[2026-01-02T12:01:58.958Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:01:58.958Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:01:59.026Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T12:01:59.026Z] [getAttendance] Fetching all history
+[2026-01-02T12:01:59.040Z] [getAttendance] Found 8 records
+[2026-01-02T12:01:59.041Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:01:59.042Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:02:53.872Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:02:53.872Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:02:53.944Z] [getAttendance] Found 2 records
+[2026-01-02T12:02:53.944Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:02:53.945Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:02:54.023Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:02:54.024Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:02:54.227Z] [getAttendance] Found 2 records
+[2026-01-02T12:02:54.228Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:02:54.228Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:14:39.535Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:14:39.537Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:14:39.599Z] [getAttendance] Found 2 records
+[2026-01-02T12:14:39.600Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:14:39.601Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:14:39.734Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:14:39.743Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:14:39.796Z] [getAttendance] Found 2 records
+[2026-01-02T12:14:39.796Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:14:39.797Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:14:57.102Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:14:57.103Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:14:57.116Z] [getAttendance] Found 2 records
+[2026-01-02T12:14:57.117Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:14:57.118Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:14:57.329Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:14:57.330Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:14:57.404Z] [getAttendance] Found 2 records
+[2026-01-02T12:14:57.405Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:14:57.405Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:15:00.328Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T12:15:00.328Z] [getAttendance] Fetching all history
+[2026-01-02T12:15:00.334Z] [getAttendance] Found 8 records
+[2026-01-02T12:15:00.335Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:15:00.336Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:15:00.363Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T12:15:00.364Z] [getAttendance] Fetching all history
+[2026-01-02T12:15:00.372Z] [getAttendance] Found 8 records
+[2026-01-02T12:15:00.372Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:15:00.373Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:15:29.884Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:15:29.885Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:15:29.905Z] [getAttendance] Found 2 records
+[2026-01-02T12:15:29.905Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:15:29.906Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:15:29.921Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:15:29.921Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:15:29.948Z] [getAttendance] Found 2 records
+[2026-01-02T12:15:29.949Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:15:29.949Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:15:51.999Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:15:52.000Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:15:52.036Z] [getAttendance] Found 2 records
+[2026-01-02T12:15:52.037Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:15:52.037Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:15:52.090Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:15:52.091Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:15:52.116Z] [getAttendance] Found 2 records
+[2026-01-02T12:15:52.117Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:15:52.118Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:15:58.691Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:15:58.691Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:15:58.780Z] [getAttendance] Found 2 records
+[2026-01-02T12:15:58.836Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:15:58.869Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:15:58.924Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T12:15:58.924Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T12:15:58.990Z] [getAttendance] Found 2 records
+[2026-01-02T12:15:58.990Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:15:58.991Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:16:02.215Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T12:16:02.216Z] [getAttendance] Fetching all history
+[2026-01-02T12:16:02.270Z] [getAttendance] Found 8 records
+[2026-01-02T12:16:02.270Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:16:02.271Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T12:16:02.340Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T12:16:02.341Z] [getAttendance] Fetching all history
+[2026-01-02T12:16:02.360Z] [getAttendance] Found 8 records
+[2026-01-02T12:16:02.361Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T12:16:02.362Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:18:02.600Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T18:18:02.602Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:18:02.643Z] [getAttendance] Found 2 records
+[2026-01-02T18:18:02.644Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:18:02.644Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:18:02.659Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T18:18:02.660Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:18:02.731Z] [getAttendance] Found 2 records
+[2026-01-02T18:18:02.732Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:18:02.733Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:18:21.218Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T18:18:21.219Z] [getAttendance] Fetching all history
+[2026-01-02T18:18:21.223Z] [getAttendance] Found 8 records
+[2026-01-02T18:18:21.224Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:18:21.224Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:18:21.230Z] [getAttendance] Request for date: undefined, User: 4 (attendance_manager)
+[2026-01-02T18:18:21.232Z] [getAttendance] Fetching all history
+[2026-01-02T18:18:21.235Z] [getAttendance] Found 8 records
+[2026-01-02T18:18:21.236Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:18:21.236Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:18:43.670Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T18:18:43.671Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:18:43.682Z] [getAttendance] Found 2 records
+[2026-01-02T18:18:43.683Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:18:43.684Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:18:43.694Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T18:18:43.696Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:18:43.707Z] [getAttendance] Found 2 records
+[2026-01-02T18:18:43.708Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:18:43.708Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:19:21.314Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T18:19:21.315Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:19:21.320Z] [getAttendance] Found 3 records
+[2026-01-02T18:19:21.321Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:19:21.322Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:19:26.196Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T18:19:26.197Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:19:26.206Z] [getAttendance] Found 3 records
+[2026-01-02T18:19:26.207Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:19:26.207Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:19:46.039Z] [getAttendance] Request for date: 2026-01-03, User: 4 (attendance_manager)
+[2026-01-02T18:19:46.040Z] [getAttendance] Fetching all by date: 2026-01-03
+[2026-01-02T18:19:46.052Z] [getAttendance] Found 0 records
+[2026-01-02T18:19:49.399Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T18:19:49.399Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:19:49.405Z] [getAttendance] Found 3 records
+[2026-01-02T18:19:49.406Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:19:49.406Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:19:49.920Z] [getAttendance] Request for date: 2026-01-01, User: 4 (attendance_manager)
+[2026-01-02T18:19:49.920Z] [getAttendance] Fetching all by date: 2026-01-01
+[2026-01-02T18:19:49.926Z] [getAttendance] Found 0 records
+[2026-01-02T18:19:52.980Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T18:19:52.981Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:19:52.987Z] [getAttendance] Found 3 records
+[2026-01-02T18:19:52.988Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:19:52.988Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:20:27.192Z] [getAttendance] Request for date: 2026-01-02, User: 2 (hr)
+[2026-01-02T18:20:27.193Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:20:27.200Z] [getAttendance] Found 3 records
+[2026-01-02T18:20:27.201Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:20:27.201Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:20:27.214Z] [getAttendance] Request for date: 2026-01-02, User: 2 (hr)
+[2026-01-02T18:20:27.215Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:20:27.234Z] [getAttendance] Found 3 records
+[2026-01-02T18:20:27.235Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:20:27.236Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:21:04.304Z] [getAttendance] Request for date: undefined, User: 2 (hr)
+[2026-01-02T18:21:04.305Z] [getAttendance] Fetching all history
+[2026-01-02T18:21:04.308Z] [getAttendance] Found 9 records
+[2026-01-02T18:21:04.309Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:21:04.309Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:21:04.313Z] [getAttendance] Request for date: undefined, User: 2 (hr)
+[2026-01-02T18:21:04.314Z] [getAttendance] Fetching all history
+[2026-01-02T18:21:04.318Z] [getAttendance] Found 9 records
+[2026-01-02T18:21:04.319Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:21:04.319Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:22:10.697Z] [getAttendance] Request for date: 2026-01-02, User: 2 (hr)
+[2026-01-02T18:22:10.698Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:22:10.708Z] [getAttendance] Found 3 records
+[2026-01-02T18:22:10.708Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:22:10.709Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:22:10.752Z] [getAttendance] Request for date: 2026-01-02, User: 2 (hr)
+[2026-01-02T18:22:10.753Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:22:10.760Z] [getAttendance] Found 3 records
+[2026-01-02T18:22:10.761Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:22:10.762Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:23:31.914Z] [getAttendance] Request for date: 2026-01-02, User: 5 (employee)
+[2026-01-02T18:23:31.959Z] [getAttendance] Found 1 records
+[2026-01-02T18:23:31.959Z] [getAttendance] Sample record: {"attendance_id":283,"user_id":5,"check_in":"On Leave","check_out":"On Leave","total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","date":"2026-01-02"}
+[2026-01-02T18:23:31.960Z] [getAttendance] Unique Statuses: ["On Leave"]
+[2026-01-02T18:23:32.040Z] [getAttendance] Request for date: 2026-01-02, User: 5 (employee)
+[2026-01-02T18:23:32.083Z] [getAttendance] Found 1 records
+[2026-01-02T18:23:32.084Z] [getAttendance] Sample record: {"attendance_id":283,"user_id":5,"check_in":"On Leave","check_out":"On Leave","total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","date":"2026-01-02"}
+[2026-01-02T18:23:32.085Z] [getAttendance] Unique Statuses: ["On Leave"]
+[2026-01-02T18:23:37.218Z] [getAttendance] Request for date: undefined, User: 5 (employee)
+[2026-01-02T18:23:37.270Z] [getAttendance] Found 3 records
+[2026-01-02T18:23:37.270Z] [getAttendance] Sample record: {"attendance_id":283,"user_id":5,"check_in":"On Leave","check_out":"On Leave","total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","date":"2026-01-02"}
+[2026-01-02T18:23:37.271Z] [getAttendance] Unique Statuses: ["On Leave","Present"]
+[2026-01-02T18:23:37.594Z] [getAttendance] Request for date: undefined, User: 5 (employee)
+[2026-01-02T18:23:37.603Z] [getAttendance] Found 3 records
+[2026-01-02T18:23:37.603Z] [getAttendance] Sample record: {"attendance_id":283,"user_id":5,"check_in":"On Leave","check_out":"On Leave","total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","date":"2026-01-02"}
+[2026-01-02T18:23:37.604Z] [getAttendance] Unique Statuses: ["On Leave","Present"]
+[2026-01-02T18:25:03.318Z] [getAttendance] Request for date: undefined, User: 5 (employee)
+[2026-01-02T18:25:03.321Z] [getAttendance] Found 3 records
+[2026-01-02T18:25:03.321Z] [getAttendance] Sample record: {"attendance_id":283,"user_id":5,"check_in":"On Leave","check_out":"On Leave","total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","date":"2026-01-02"}
+[2026-01-02T18:25:03.322Z] [getAttendance] Unique Statuses: ["On Leave","Present"]
+[2026-01-02T18:25:03.325Z] [getAttendance] Request for date: undefined, User: 5 (employee)
+[2026-01-02T18:25:03.332Z] [getAttendance] Found 3 records
+[2026-01-02T18:25:03.333Z] [getAttendance] Sample record: {"attendance_id":283,"user_id":5,"check_in":"On Leave","check_out":"On Leave","total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","date":"2026-01-02"}
+[2026-01-02T18:25:03.333Z] [getAttendance] Unique Statuses: ["On Leave","Present"]
+[2026-01-02T18:25:14.773Z] [getAttendance] Request for date: undefined, User: 5 (employee)
+[2026-01-02T18:25:14.777Z] [getAttendance] Found 3 records
+[2026-01-02T18:25:14.777Z] [getAttendance] Sample record: {"attendance_id":283,"user_id":5,"check_in":"On Leave","check_out":"On Leave","total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","date":"2026-01-02"}
+[2026-01-02T18:25:14.778Z] [getAttendance] Unique Statuses: ["On Leave","Present"]
+[2026-01-02T18:25:14.781Z] [getAttendance] Request for date: undefined, User: 5 (employee)
+[2026-01-02T18:25:14.784Z] [getAttendance] Found 3 records
+[2026-01-02T18:25:14.786Z] [getAttendance] Sample record: {"attendance_id":283,"user_id":5,"check_in":"On Leave","check_out":"On Leave","total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","date":"2026-01-02"}
+[2026-01-02T18:25:14.787Z] [getAttendance] Unique Statuses: ["On Leave","Present"]
+[2026-01-02T18:25:57.710Z] [getAttendance] Request for date: undefined, User: 5 (employee)
+[2026-01-02T18:25:57.713Z] [getAttendance] Found 3 records
+[2026-01-02T18:25:57.714Z] [getAttendance] Sample record: {"attendance_id":283,"user_id":5,"check_in":"On Leave","check_out":"On Leave","total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","date":"2026-01-02"}
+[2026-01-02T18:25:57.714Z] [getAttendance] Unique Statuses: ["On Leave","Present"]
+[2026-01-02T18:25:57.718Z] [getAttendance] Request for date: undefined, User: 5 (employee)
+[2026-01-02T18:25:57.723Z] [getAttendance] Found 3 records
+[2026-01-02T18:25:57.723Z] [getAttendance] Sample record: {"attendance_id":283,"user_id":5,"check_in":"On Leave","check_out":"On Leave","total_hours":null,"status":"On Leave","attendance_date":"2026-01-01T21:00:00.000Z","date":"2026-01-02"}
+[2026-01-02T18:25:57.724Z] [getAttendance] Unique Statuses: ["On Leave","Present"]
+[2026-01-02T18:28:31.355Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T18:28:31.356Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:28:31.388Z] [getAttendance] Found 3 records
+[2026-01-02T18:28:31.389Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:28:31.390Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:28:31.414Z] [getAttendance] Request for date: 2026-01-02, User: 4 (attendance_manager)
+[2026-01-02T18:28:31.415Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:28:31.422Z] [getAttendance] Found 3 records
+[2026-01-02T18:28:31.423Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:28:31.424Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:28:49.578Z] [getAttendance] Request for date: 2026-01-02, User: 2 (hr)
+[2026-01-02T18:28:49.578Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:28:49.589Z] [getAttendance] Found 3 records
+[2026-01-02T18:28:49.590Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:28:49.590Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:28:49.599Z] [getAttendance] Request for date: 2026-01-02, User: 2 (hr)
+[2026-01-02T18:28:49.600Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:28:49.608Z] [getAttendance] Found 3 records
+[2026-01-02T18:28:49.609Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:28:49.610Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:32:04.534Z] [getAttendance] Request for date: 2026-01-02, User: 2 (hr)
+[2026-01-02T18:32:04.534Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:32:04.542Z] [getAttendance] Found 3 records
+[2026-01-02T18:32:04.542Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:32:04.543Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-02T18:32:04.563Z] [getAttendance] Request for date: 2026-01-02, User: 2 (hr)
+[2026-01-02T18:32:04.564Z] [getAttendance] Fetching all by date: 2026-01-02
+[2026-01-02T18:32:04.568Z] [getAttendance] Found 3 records
+[2026-01-02T18:32:04.569Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-02T18:32:04.570Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-05T09:55:33.344Z] [getAttendance] Request for date: undefined, User: 2 (hr)
+[2026-01-05T09:55:33.346Z] [getAttendance] Fetching all history
+[2026-01-05T09:55:33.353Z] [getAttendance] Found 8 records
+[2026-01-05T09:55:33.353Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-05T09:55:33.354Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-05T09:55:33.362Z] [getAttendance] Request for date: undefined, User: 2 (hr)
+[2026-01-05T09:55:33.362Z] [getAttendance] Fetching all history
+[2026-01-05T09:55:33.364Z] [getAttendance] Found 8 records
+[2026-01-05T09:55:33.365Z] [getAttendance] Sample record: {"attendance_id":282,"user_id":2,"check_in":"2026-01-02 15:00:58","check_out":"2026-01-02 15:01:03","total_hours":null,"status":"Present","attendance_date":"2026-01-01T21:00:00.000Z","full_name":"HR User","role":"hr","date":"2026-01-02"}
+[2026-01-05T09:55:33.366Z] [getAttendance] Unique Statuses: ["Present","On Leave"]
+[2026-01-05T09:56:59.918Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T09:56:59.919Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T09:56:59.940Z] [getAttendance] Found 0 records
+[2026-01-05T09:56:59.952Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T09:56:59.952Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T09:56:59.958Z] [getAttendance] Found 0 records
+[2026-01-05T09:57:22.693Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T09:57:22.694Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T09:57:22.704Z] [getAttendance] Found 1 records
+[2026-01-05T09:57:22.705Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T09:57:22.706Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T09:57:22.724Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T09:57:22.724Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T09:57:22.734Z] [getAttendance] Found 1 records
+[2026-01-05T09:57:22.735Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T09:57:22.736Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T09:57:33.403Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T09:57:33.405Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T09:57:33.417Z] [getAttendance] Found 1 records
+[2026-01-05T09:57:33.417Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T09:57:33.418Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T09:57:33.435Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T09:57:33.436Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T09:57:33.441Z] [getAttendance] Found 1 records
+[2026-01-05T09:57:33.442Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T09:57:33.442Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T09:57:44.536Z] [getAttendance] Request for date: 2026-01-05, User: 13 (employee)
+[2026-01-05T09:57:44.545Z] [getAttendance] Found 1 records
+[2026-01-05T09:57:44.546Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","date":"2026-01-05"}
+[2026-01-05T09:57:44.547Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T09:57:44.557Z] [getAttendance] Request for date: 2026-01-05, User: 13 (employee)
+[2026-01-05T09:57:44.567Z] [getAttendance] Found 1 records
+[2026-01-05T09:57:44.569Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","date":"2026-01-05"}
+[2026-01-05T09:57:44.570Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:00:07.577Z] [getAttendance] Request for date: 2026-01-05, User: 13 (employee)
+[2026-01-05T10:00:07.581Z] [getAttendance] Found 1 records
+[2026-01-05T10:00:07.582Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","date":"2026-01-05"}
+[2026-01-05T10:00:07.582Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:00:07.598Z] [getAttendance] Request for date: 2026-01-05, User: 13 (employee)
+[2026-01-05T10:00:07.619Z] [getAttendance] Found 1 records
+[2026-01-05T10:00:07.620Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","date":"2026-01-05"}
+[2026-01-05T10:00:07.620Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:02:35.197Z] [getAttendance] Request for date: undefined, User: 13 (employee)
+[2026-01-05T10:02:35.200Z] [getAttendance] Found 1 records
+[2026-01-05T10:02:35.201Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","date":"2026-01-05"}
+[2026-01-05T10:02:35.201Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:02:35.209Z] [getAttendance] Request for date: undefined, User: 13 (employee)
+[2026-01-05T10:02:35.212Z] [getAttendance] Found 1 records
+[2026-01-05T10:02:35.213Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","date":"2026-01-05"}
+[2026-01-05T10:02:35.213Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:03:20.712Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:03:20.713Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:03:20.725Z] [getAttendance] Found 1 records
+[2026-01-05T10:03:20.726Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:03:20.726Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:03:20.732Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:03:20.733Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:03:20.749Z] [getAttendance] Found 1 records
+[2026-01-05T10:03:20.750Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:03:20.750Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:03:41.920Z] [getAttendance] Request for date: 2026-01-05, User: 13 (employee)
+[2026-01-05T10:03:41.931Z] [getAttendance] Found 1 records
+[2026-01-05T10:03:41.932Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","date":"2026-01-05"}
+[2026-01-05T10:03:41.933Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:03:41.948Z] [getAttendance] Request for date: 2026-01-05, User: 13 (employee)
+[2026-01-05T10:03:41.953Z] [getAttendance] Found 1 records
+[2026-01-05T10:03:41.954Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","date":"2026-01-05"}
+[2026-01-05T10:03:41.955Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:04:10.421Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:04:10.423Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:04:10.436Z] [getAttendance] Found 1 records
+[2026-01-05T10:04:10.437Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:04:10.437Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:04:10.450Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:04:10.451Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:04:10.458Z] [getAttendance] Found 1 records
+[2026-01-05T10:04:10.459Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:04:10.460Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:04:13.689Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:04:13.690Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:04:13.697Z] [getAttendance] Found 1 records
+[2026-01-05T10:04:13.697Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:04:13.698Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:04:13.702Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:04:13.703Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:04:13.713Z] [getAttendance] Found 1 records
+[2026-01-05T10:04:13.714Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":null,"total_hours":null,"status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:04:13.714Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:05:14.052Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:05:14.053Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:05:14.073Z] [getAttendance] Found 1 records
+[2026-01-05T10:05:14.073Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":"2026-01-05 13:05:11.934000","total_hours":"0.00","status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:05:14.074Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:05:14.096Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:05:14.097Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:05:14.109Z] [getAttendance] Found 1 records
+[2026-01-05T10:05:14.109Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":"2026-01-05 13:05:11.934000","total_hours":"0.00","status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:05:14.110Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:05:17.048Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:05:17.049Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:05:17.052Z] [getAttendance] Found 1 records
+[2026-01-05T10:05:17.053Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":"2026-01-05 13:05:11.934000","total_hours":"0.00","status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:05:17.053Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:05:17.066Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:05:17.067Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:05:17.070Z] [getAttendance] Found 1 records
+[2026-01-05T10:05:17.071Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":"2026-01-05 13:05:11.934000","total_hours":"0.00","status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:05:17.071Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:06:36.322Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:06:36.322Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:06:36.329Z] [getAttendance] Found 1 records
+[2026-01-05T10:06:36.330Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":"2026-01-05 13:05:11.934000","total_hours":"0.00","status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:06:36.330Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:06:36.356Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:06:36.357Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:06:36.364Z] [getAttendance] Found 1 records
+[2026-01-05T10:06:36.367Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":"2026-01-05 13:05:11.934000","total_hours":"0.00","status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:06:36.368Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:12:20.240Z] [getAttendance] Request for date: 2026-01-05, User: 13 (employee)
+[2026-01-05T10:12:20.274Z] [getAttendance] Found 1 records
+[2026-01-05T10:12:20.275Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":"2026-01-05 13:05:11.934000","total_hours":"0.00","status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","date":"2026-01-05"}
+[2026-01-05T10:12:20.276Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:12:20.307Z] [getAttendance] Request for date: 2026-01-05, User: 13 (employee)
+[2026-01-05T10:12:20.312Z] [getAttendance] Found 1 records
+[2026-01-05T10:12:20.313Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":"2026-01-05 13:05:11.934000","total_hours":"0.00","status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","date":"2026-01-05"}
+[2026-01-05T10:12:20.314Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:13:41.098Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:13:41.099Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:13:41.107Z] [getAttendance] Found 1 records
+[2026-01-05T10:13:41.108Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":"2026-01-05 13:05:11.934000","total_hours":"0.00","status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:13:41.108Z] [getAttendance] Unique Statuses: ["Present"]
+[2026-01-05T10:13:41.132Z] [getAttendance] Request for date: 2026-01-05, User: 4 (attendance_manager)
+[2026-01-05T10:13:41.132Z] [getAttendance] Fetching all by date: 2026-01-05
+[2026-01-05T10:13:41.140Z] [getAttendance] Found 1 records
+[2026-01-05T10:13:41.141Z] [getAttendance] Sample record: {"attendance_id":285,"user_id":13,"check_in":"2026-01-05 12:57:20.379000","check_out":"2026-01-05 13:05:11.934000","total_hours":"0.00","status":"Present","attendance_date":"2026-01-04T21:00:00.000Z","full_name":"semir sultan","role":"employee","date":"2026-01-05"}
+[2026-01-05T10:13:41.142Z] [getAttendance] Unique Statuses: ["Present"]

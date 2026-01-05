@@ -1,0 +1,9 @@
+{
+    "short_name": "SmartWorkforce",
+    "name": "Smart Workforce Management and Attendance Tracking Platform",
+    "icons": [],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
