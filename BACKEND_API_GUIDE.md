@@ -6,7 +6,8 @@
 ## Authentication
 All endpoints except `/auth/login` and `/auth/register` require JWT token in Authorization header: `Bearer <token>`
 
-## Endpoints
+## Endpoints  
+
 
 ### Authentication
 - `POST /auth/register` - Register new user (Admin only)
